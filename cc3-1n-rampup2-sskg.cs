@@ -127,7 +127,7 @@ if (int.TryParse(Console.ReadLine(), out int input) && input > 0)
             {
                 int sum1 = 0;
 
-                // Calculate the sum of integers 
+                
                 for (int i = 1; i <= input; i++)
                 {
                     sum1 += i;
