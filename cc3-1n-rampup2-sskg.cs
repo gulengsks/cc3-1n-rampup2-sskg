@@ -46,7 +46,6 @@ namespace Rampup2
 //Converts the entered temperature from Fahrenheit to Celsius using the formula (Fahrenheit - 32) * 5 / 9 and then prints the result.//
 //Displays a message indicating the end of the temperature converter.
 
-
             int numberOfStudents = 10;
             int sum = 0;
 
@@ -89,10 +88,10 @@ namespace Rampup2
             string abElton = "Shadow Dance";
             string abEsteven = "Nova Blast";
             string abBrent = "Earthern embrace";
-
+            
             Console.WriteLine($"In the majestic realm of Veloria, a kingdom embroiled in the echoes of ancient battles, five valiant knights rose to defend their land. {char1} 'The Stalwart leader' (equipped with {weaponSean}), a mighty sword from the metal of the astral forge. sean's {abSean} allowed him to create a protective barrier, sheilding his comrades in the battlefield.\n");
             Console.WriteLine($"{char2}, 'The swift and precise elf knight' wielded {weaponGirmille} weapon imbued with the power of the Silvermoon. Girmille's unmatched marksmanship and the {abGirmille} allowed her to rain arrows in the air with uncanny accuracy.{char3}, 'The nimble rouge knight fought with {weaponElton} known for its dazzling agility. His {abElton} rendered him elusive, allowing him to weave through enemy ranks unseen, delivering swift strikes from the shadows.{char4} 'The sorcerer knight', carried the {weaponEsteven} a staff crackling with the energies of the Arcane Rift. His magical prowess and the {abEsteven} unleashed devastating bursts of arcane power, scattering adversaries on the battlefield.{char5}, 'The wise druid' bore the {weaponBrent} polearm adorned the nature's blessings. with the {abBrent}, Brent could summon entangling vines and roots to immobilize foes, turning the tide of the battle in favor of Valoria. Together, these five knights stood as the vanguard of the kingdom, their weapons and abilities weaving a tapestry of defense against any threat that dared to challenge the sovereignty of Valoria.'\n");
-            Console.WriteLine("====================End of The story!!====================");
+            Console.WriteLine("==========================End of Story!!======================================");
 
 //Sets up strings for character names, weapons, and abilities for each of the five knights.//
 //Starts the narration of the story, introducing the kingdom and the valiant knights.//
